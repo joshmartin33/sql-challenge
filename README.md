@@ -38,6 +38,8 @@
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
+       <li><a href="#bonus">Bonus</a></li>
+      </ul>
     </li>
     <li><a href="#creators">Creators</a></li>
     <li><a href="#citing-and-referencing">Citing and Referencing</a></li>
@@ -158,6 +160,32 @@ Lastly we run our analysis query
    ```js
    Where_you_cloned_the_repo + \sql-challenge\EmployeeSQL\queries
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- BONUS -->
+## Bonus
+
+1. Create a python file called get_pass.py and save it in the folder "SQL-challenge".
+
+2. Within the get_pass.py copy and paste the code below. 
+
+```
+# PG ADMIN password
+password = "ENTER YOUR PASSWORD HERE"
+```
+
+3. Enter in your password for PG Admin.
+
+4. Locate file called bonus_visualisation.ipynb found in folder "SQL-challenge"
+
+5. Open bonus_visualisation.ipynb in any application that can run a Jupyter notebook.
+
+6. Refresh and clear the kernal. Click on "Run all"
+
+Results will be displayed
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
